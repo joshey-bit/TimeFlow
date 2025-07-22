@@ -1,6 +1,6 @@
 # TimeFlow: Your Life's Time, Your Digital Currency
 
-[Read our data-backed market survey and project report](reports/Time-Accounting%20Service_%20Market%20Research_.pdf)
+[Read our data-backed market survey and project report](reports/Time_AccountingService_%20Market_Research.pdf)
 
 ## Project Overview
 TimeFlow is an innovative service that transforms how individuals understand and value their time. By combining autonomous time-logging with a "time as currency" incentive model, TimeFlow empowers users to gain insights into their daily activities while earning tangible rewards for their time and data contributions.
