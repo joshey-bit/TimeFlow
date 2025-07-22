@@ -1,9 +1,9 @@
-# TimeFlow: Your Life's Time, Your Digital Currency
+# TimeExchange: Your Life's Time, Your Digital Currency
 
 [Read our data-backed market survey and project report](reports/Time_AccountingService_%20Market_Research.pdf)
 
 ## Project Overview
-TimeFlow is an innovative service that transforms how individuals understand and value their time. By combining autonomous time-logging with a "time as currency" incentive model, TimeFlow empowers users to gain insights into their daily activities while earning tangible rewards for their time and data contributions.
+TimeExchange is an innovative service that transforms how individuals understand and value their time. By combining autonomous time-logging with a "time as currency" incentive model, TimeExchange empowers users to gain insights into their daily activities while earning tangible rewards for their time and data contributions.
 
 Our vision is to make time a visible, valuable asset, fostering productivity, well-being, and a new economy powered by user-consented data.
 
@@ -18,7 +18,7 @@ Our vision is to make time a visible, valuable asset, fostering productivity, we
 
 ---
 
-## Solution: TimeFlow's Core Value Proposition
+## Solution: TimeExchange's Core Value Proposition
 - **Effortless Autonomous Time-Logging:** Advanced device APIs, sensor fusion, and ML automatically log and categorize activities (Productive, Rest, Chores) with minimal user input (≤3 taps/day).
 - **"Time-Coins" as Digital Currency:** Earn time-coins for every minute logged and data shared, turning time into a tangible, redeemable asset.
 - **Integrated Rewards Marketplace:** Redeem time-coins for digital coupons, wellness incentives, and more via partner integrations.
