@@ -9,7 +9,7 @@ Our vision is to make time a visible, valuable asset, fostering productivity, we
 
 ---
 
-## The Problem We're Solving
+## The Problem
 - **Time is our most precious, yet unmanaged, resource.**
 - **Lack of time awareness:** Hard to track time spent across work, leisure, and personal tasks; existing tools require tedious manual input.
 - **Digital distractions:** Screen time and app usage consume significant portions of our day, often unconsciously.
@@ -18,7 +18,7 @@ Our vision is to make time a visible, valuable asset, fostering productivity, we
 
 ---
 
-## Our Solution: TimeFlow's Core Value Proposition
+## Solution: TimeFlow's Core Value Proposition
 - **Effortless Autonomous Time-Logging:** Advanced device APIs, sensor fusion, and ML automatically log and categorize activities (Productive, Rest, Chores) with minimal user input (≤3 taps/day).
 - **"Time-Coins" as Digital Currency:** Earn time-coins for every minute logged and data shared, turning time into a tangible, redeemable asset.
 - **Integrated Rewards Marketplace:** Redeem time-coins for digital coupons, wellness incentives, and more via partner integrations.
